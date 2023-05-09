@@ -30,6 +30,13 @@ h3{
     font-size: 2em;
 }
 
+.btn-jogar{
+    padding: 8px 15px;
+    border: 0;
+    background: var(--primary-color);
+    border-radius: 5px;
+    margin-top: 20px;
+}
 .mensagem{
     font-size: 1.5em;
     margin-top: 40px;
